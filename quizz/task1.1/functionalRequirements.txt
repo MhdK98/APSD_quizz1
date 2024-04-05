@@ -1,0 +1,16 @@
+
+Functional Requirements:
+
+
+Contact Management:
+Ability to add new contacts with fields for first name, last name, company, job title.
+Capability to update existing contacts with the option to modify any field.
+Option to delete old contacts.
+Functionality to search through existing contacts based on any field.
+
+Contact Details:
+Each contact should support zero or more phone numbers, each associated with a label (e.g., home, mobile, work).
+Each contact should support zero or more email addresses, each with an actual address and a label indicating its relation to the contact (e.g., personal, work).
+
+Duplicate Contact Handling:
+Users should be provided with the option to merge duplicate contacts while retaining all relevant information.
